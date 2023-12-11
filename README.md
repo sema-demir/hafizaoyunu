@@ -26,4 +26,5 @@ Bu proje, 12 kart içeren klasik bir hafıza oyununu içermektedir. Kullanıcın
 - `style.css`: Kullanıcı arayüzünü stilize eden CSS dosyası.
 - `script.js`: Oyun mantığını uygulayan JavaScript dosyası.
 
-
+<h3>Ekran Görüntüsü</h3>
+![](memorygame.gif)
